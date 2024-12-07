@@ -32,7 +32,7 @@
 ## Masters in Software Engineering at UMinho
 
 ### 1st year - 1st semester 
-- Network Services Engineering - [Project ](https://github.com/carlos01amc/Projeto-ESR)
+- Network Services Engineering - Python - [Project ](https://github.com/carlos01amc/Projeto-ESR)
 
 
 <div>
