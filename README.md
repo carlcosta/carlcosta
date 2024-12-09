@@ -1,4 +1,4 @@
-## My university projects 🎓
+## My University Projects 🎓
 
 ## Software Engineering at IPCA
 
